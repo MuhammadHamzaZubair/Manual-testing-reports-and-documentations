@@ -1,0 +1,17 @@
+Emails to suppot and user:
+
+1) New user sign up email to support
+2) Welcome email on sign up to user
+3) Forgot password email to user
+4) Request a call email to suppot and request received email to user
+5) Wallet top up email to support and confirmation email to user
+6) Ambulance request email to support
+7) Blood request pending and completed email to support and request received email to user
+8) Donate blood request to support and request received email to user
+9) E-commerce pending and completed emails to support and request received email to customer 
+9) Chemist (Write your order) request to support and request received to customer
+10) Chemist (Order by prescription) request to support and request received to customer
+12) Diagnostics (Order by prescription) email to support and request received email to user
+13) Equipment (Write your order) email to support and request received email to customer
+14) Equipment to rent (Write your order) email to support and request received email to customer
+15) G-segment pending and completed emails to support and request received email to customer

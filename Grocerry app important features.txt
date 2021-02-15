@@ -1,0 +1,59 @@
+IMPORTANT FEATURES FOR A FOOD/ GROCERRY APP:
+
+
+1)  Easy sign-up process
+
+The first step a customer goes through is sign-in and sign up process making it easier will make it easy for the user to make an account on the app.
+Adding one very effective feature to the app is providing an option for the sign-up process like sign via google, Facebook, etc. help the user for easy signup process as they don’t have to make a specific account for the app.
+
+2) Enhanced search
+
+As grocery has hundreds of products it becomes quite difficult for the user to choose the correct item the enhanced search option gives the user a quick list of items which are used in household and mostly sold/searched this feature will help customers to help users to get an idea of their shopping list and improve it.
+
+3) Product comparisons
+
+The price comparison is another feature which is very much required in a grocery shopping app as most of the consumers begin their shopping by researching and comparing products, prices, quality etc. This feature allows customers to find products without making them leave the app.
+
+4) Add to cart option
+
+When a customer goes through the full shopping list what if he likes an item and does not have the add to cart option it seems a bit unorganized.
+Keeping a big add to cart option will make it easy for the user to buy that thing with just a tap, with this feature the total value of the cart will also be displayed on the top to keep a check on the total bill of the cart. Exactly working like a trolley when you go to a grocery store.
+
+5) Cart sharing 
+
+This is an excellent feature for increasing cart value and reducing cart abandonment rates. Through cart sharing feature, customers can share their shopping cart with their friends and family.
+
+6) Coupon codes & special deals:
+
+Who won’t like the special attention, similarly if you are giving coupon codes to your customers on their every purchase, it will make them happy and encourage them to purchase more. According to stats shared by Invesprco team, 31 million coupons will be redeemed worldwide in 2019 and 62 per cent smartphone users are likely to use digital coupons in the future. Additionally, giving special deals on festivals or running contents are proved strategies to increase sales on your online grocery mobile app.
+
+7)  Recommendation
+
+The recommendation section is very useful for the user to improve his app experience. When a user makes a purchase through the grocery app then it stores your data and next month when you buy the grocery this data gives you a list of items recommended by your last selection.
+This feature saves time and therefore is advisable to add this feature to the app.
+
+8) Save for later feature
+
+If the user finds a product very useful but he may not need that right now, So this saves for later option saves a particular product for the user and whenever he comes to the app next time the app reminds him of the product whether he wants to buy that product or not.
+It keeps a record of products and not let the user forget about it so it is very useful indeed.
+
+9)  Push notifications
+
+Push notification feature will help the user to get constant updates about the app. Notifying the user about discount offers, festive offers, and if something new and trendy is going to take place in nearby stores which will entertain the user and much more information which is delivered to the user to keep them updated about the app.
+
+10)  Safe and convenient payment procedure
+
+After completing the selection process the user comes lastly to the payment process where he makes the payment and completes his order. Making an easy and safe payment gateways is also an important aspect for the mobile app developer to make this app.
+We can solve this problem simply by just adding various payment options like Cards, e-wallets, UPI, net banking and cash on delivery as well which makes it convenient for the customer to pay through the method of his choice and complete the payment.
+
+11) Live order tracking feature
+
+This is one of the best features which a delivery app can have. Keeping your customers updated about their delivery is what they require.
+The live tracking features provide the customer with the location of the driver where he has reached and gives an estimation of time showing the exact time which driver will take to reach your destination. This makes the customer end the wait for their delivery and relax without the worry of delivery time
+
+12) Customer reviews and feedback
+
+At last when it comes to customer feedback and reviews that matter a lot for a when it comes to the improvement on the app and adding features. It plays a very important role in pointing out errors of your app and knowing where you can improve to make it better
+By just adding the review or feedback dialog box after every successful order makes the customer tell something about your app which you can probably improve.
+Adding These 9 features while creating a grocery app will make your app loved by your user.
+

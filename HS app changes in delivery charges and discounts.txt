@@ -1,0 +1,5 @@
+1) Delivery charges of equipment will be applied per kg Rs. 100
+2) Delivery charges of chemist are fixed Rs. 200
+3) Delivery charges for Blood = Rs. 550
+4)If multiple products from different types are added in cart than the applied delivery charges will be the sum of individual delivery charges.
+5) Any product in which the price is already discounted, bank discount can't be applied on those products as these are already discounted products. 
