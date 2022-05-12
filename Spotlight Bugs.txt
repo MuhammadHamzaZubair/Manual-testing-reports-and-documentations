@@ -1,0 +1,23 @@
+1) Password eye working oppositely on login, sign up & Change password .  (Medium)
+2) Why check mark already showing on "Username" field on sign up form. It should be displayed after entering and verifying username. (Medium)
+3) Password hint box is irritating for user as the user is unable to select the text box on click. (Medium)
+4) Not showing password error on filling the form and clicking sign up button, if the user doesn't fulfils password requirements for password. (Medium)
+5) Invalid credentials messages not showing on entering invalid login credentials. (High)
+6) All tag options are not visible on "Add Bio" page, "How are you trying to market yourself?" section. (Pixel 4a) (High)
+7) On entering long user's description, it's going out of section for "User's profile" page. 
+8) Push notifications not coming (High)
+9) App crashing on adding images (Blocker)
+10) On home page, the user should be moved to user's profile on clicking names on the posts. (Medium)
+11) There should be search button on keypad instead of "Next" for search page. (High)
+12) If there are no videos available on "Liked Videos" page than a text should be displayed as, "No videos available". (Low)
+13) Decrease notification ON/OFF switch size on "Settings" page. (Low)
+14) Wrong number of followers/ following showing on "Profile" page or numbers not updating. (High)
+15) Crashing on search sometimes. (Medium)
+16) Comment sending multiple times for the first time on a new video. (High)
+17) Edit video option missing. (Blocker)
+
+iOS issues:
+
+1) "Next" button not enable for keypad for sign up form for switching next field. 
+2) Push notifications receiving to wrong user end. e.g I commented on a video and notification coming to my self instead at the receiver's end. (Happening sometimes)
+ 

@@ -1,0 +1,5 @@
+1) Getting delay in receiving push notifications.(MEDIUM)
+2) Social login not working. (BLOCKER)
+3) User name missing in every push notification. (HIGH)
+4) Counter showing 6 notifications but nothing showing on this page. (HIGH)
+5) On disliking a comment from "Comments" page, wrong notification going to receiver as, "liked your comment" instead of "Disliked your comment" (HIGH) 

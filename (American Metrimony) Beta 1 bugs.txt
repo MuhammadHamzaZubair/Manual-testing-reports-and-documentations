@@ -1,0 +1,23 @@
+1) Discussion forum - Comment - On adding comment and tapping "Done" from keypad, comment is not saving. 
+2) Matches screen - User status issue - User's status is showing as active but he's not active at the moment.
+3) Sign up - Preferences - By default all the options are selected but the user should only be able to select just one from the options from seach. 
+4) Blogs - Text hiding on blogs page
+5) Browse page - There should be Re-load option on this screen to load the new users if any. Currently user has to kill the app in order to view new list.
+6) Chat page - Chat not working 
+7) Go live session - a) Chat not sending and receiving.
+                     b) Viewers audio should not be enable. 
+                     c) Once users navigate to this screen they will view a screen to start the live session. As soon as they 
+                        tap on start a notification will go to all matches. They will be able to tap on the notifications and start 
+                        viewing the live sessions. Users can send comments on the live sessions and person broad casting 
+                        live will be able to view these comments. The broadcaster will also be able to view number of users 
+                        viewing that broadcast.
+8) Audio/ Video call issue - On dialing audio/ Video call an irritating background sound is coming. 
+9) Go live notification re-direction issue - a) On clicking push notification, the user is not redirected to the live session but instead app is crashing. 
+                                             b) If the broadcaster ends the live session before the viewer clicks on push notification, the app is crashing.
+                                             c) Unable to go live from iOS. App crashing on going live
+10) iOS slide to go back gesture should be implemented. 
+11) Subscription not working yet.
+12) Live video session - Currently there is no option to connect with the live session other than push notification so if the push notification is missed than how will the viewer be connected with the session?
+13) Wrong notifications of live session - Same notifiation is showing for live session so the user won't be able to get that whether the user is "Live Now" or "Was Live" 
+14) E-dating - Audio Call- What's the need of "LIKE" icon at the top right corner of the calling screen?
+15) Multiple calls received to a user - If multiple users call same user with E-dating than this scenerio should also be handled. 

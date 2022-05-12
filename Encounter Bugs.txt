@@ -1,0 +1,8 @@
+1) Splash logo is blurred. (LOW)
+2) Unable to create sight on uploading picture through camera capture, getting "Network Error". (Blocker)
+3) On updating a created sight, that sight is showing multiple times on "My Sightings" screen but only last updated one should be displayed. (MEDIUM) 
+4) Front camera missing for live sight. (HIGH)
+5) Live created sights are not showing to other users. (HIGH)
+6) Home-> Search icon not displaying on header and menu icon also not displaying on top right corner on Sight details screen (Pixel 4a) (LOW)
+7) No option available to add audio on "Sight Edit" screen. (HIGH) 
+8) Unable to upload audio file. (BLOCKER)
